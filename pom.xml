@@ -129,7 +129,7 @@
 <distributionManagement>
     
   <repository>
-    <id>myshuttlesnapshott</id>
+    <id>myshuttlesnapshot</id>
     <name>myshuttlesnapshot</name>    
     <url>http://localhost:8081/repository/myshuttlesnapshot/</url>
   </repository>
