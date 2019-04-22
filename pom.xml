@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.microsoft.example</groupId>
   <artifactId>myshuttle</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.1</version>
   <packaging>war</packaging>
   <build>
   	<finalName>myshuttledev</finalName>
@@ -129,9 +129,9 @@
 <distributionManagement>
     
   <repository>
-    <id>myshuttlesnapshot</id>
-    <name>myshuttlesnapshot</name>    
-    <url>http://localhost:8081/repository/myshuttlesnapshot/</url>
+    <id>my</id>
+    <name>my</name>    
+    <url>http://localhost:8081/repository/my/</url>
   </repository>
 </distributionManagement>
    
