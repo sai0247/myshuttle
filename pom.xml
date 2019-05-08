@@ -129,9 +129,9 @@
 <distributionManagement>
     
   <repository>
-    <id>my</id>
-    <name>my</name>    
-    <url>http://localhost:8081/repository/my/</url>
+    <id>myshuttle</id>
+    <name>maven-releases</name>    
+    <url>http://localhost:8081/#browse/browse:maven-releases/</url>
   </repository>
 </distributionManagement>
    
