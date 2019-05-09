@@ -132,10 +132,12 @@
     <id>myshuttle</id>
     <name>maven-releases</name>    
     <url>http://localhost:8081/#browse/browse:maven-releases/</url>
-  <snapshots>
-        <enabled>true</enabled>
-  </snapshots>
   </repository>
+  <snapshotRepository>
+    <id>nexus</id>
+    <name>maven-snapshots</name>
+    <url>http://localhost:8081/#browse/browse:maven-snapshots</url>
+  </snapshotRepository>
 </distributionManagement>
    
 </project>
