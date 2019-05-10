@@ -125,7 +125,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-    
 <distributionManagement>
  <repository>
     <id>myshuttle</id>
