@@ -127,11 +127,11 @@
   </dependencies>
     
 <distributionManagement>
- <repository>
+  <repository>
     <id>Jfrog</id>
-    <name>example-repo-local</name>
-    <url>http://localhost:8040/artifactory/webapp/#/artifacts/browse/tree/General/example-repo-local</url>
- </repository>
+    <name>myshuttle</name>
+    <url>http://http://localhost:8040/artifactory/webapp/#/artifacts/browse/tree/General/myshuttle</url>
+  </repository>
 </distributionManagement>
    
 </project>
