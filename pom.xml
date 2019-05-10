@@ -131,7 +131,7 @@
     <id>Jfrog</id>
     <name>example-repo-local</name>
     <url>http://localhost:8040/artifactory/webapp/#/artifacts/browse/tree/General/example-repo-local</url>
-  </repository>
+ </repository>
 </distributionManagement>
    
 </project>
