@@ -127,12 +127,6 @@
   </dependencies>
     
 <distributionManagement>
-    
-  <repository>
-    <id>myshuttle</id>
-    <name>maven-releases</name>    
-    <url>http://localhost:8081/#browse/browse:maven-releases/</url>
-  </repository>
  <repository>
     <id>Jfrog</id>
     <name>example-repo-local</name>
